@@ -5,12 +5,12 @@
 }
 
 .light {
-    background-color: #f4f4f4 !important;
+    background-color: bisque !important;
     color: #333;
 }
 
 .dark {
-    background-color: #333 !important;
+    background-color: forestgreen !important;
     color: white;
 }
 
