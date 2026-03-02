@@ -39,5 +39,5 @@ addPiece("a8", "img/rook_black.png");
 addPiece("b8", "img/knight_black.png");
 addPiece("c8", "img/bishop_black.png");
 addPiece("d8", "img/king_black.png");
-addPiece("e8", "img/rook_black.png");
+addPiece("e8", "img/queen_black.png");
 addPiece("f8", "img/rook_black.png");
