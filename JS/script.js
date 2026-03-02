@@ -21,7 +21,11 @@ function createBoard() {
 
             // Klick-Event für jedes Feld
             square.addEventListener("click", () => {
-                console.log(square.id);
+                if(square.innerHTML === ""){
+                    return;
+                } else{
+                    console.log(square.id);
+                }
             });
 
             board.appendChild(square);
