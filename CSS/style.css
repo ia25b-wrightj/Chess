@@ -19,6 +19,12 @@
     height: 100%;
 }
 
+.chess-board {
+    background-color: #333333;
+    background-image: url("img/img.png");
+}
+
+
 #board {
     display: grid;
     grid-template-columns: repeat(8, 45%);
